@@ -69,7 +69,6 @@
             loop:true,
             strings: [
               'Jay.',
-              'An Engineer.',
               'A Programmer.'
             ],
             breakLines: false
